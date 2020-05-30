@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 //@Component
 public class BinarySearchImpl  {
 
-	@Autowired
+	//@Autowired
 	private SortAlgorithm sortAlgorithm;
 	
 	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
